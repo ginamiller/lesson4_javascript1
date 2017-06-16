@@ -4,20 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 16, 2017
 
 ### Student Name:  
-(First and Last Name)
+Gina Miller
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 4 introduces the background, terms and skills that you need to develop JavaScript applications. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ginamiller.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How a web application works
+2. Components of a JavaScript application
+3. HTML and CSS Skills
+4. How to test a JavaScript application
+5. How to use Aptana to develop JavaScript applications
 
